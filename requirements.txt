@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+phonenumbers
+jinja2
+python-dotenv
+httpx
